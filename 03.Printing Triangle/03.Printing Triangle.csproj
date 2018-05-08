@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{162E03D9-0B4F-4ACB-A53F-303E225A396A}</ProjectGuid>
+    <ProjectGuid>{B19A6B7B-8E01-4918-B08D-AC3CC3D6D3CF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_00.Test</RootNamespace>
-    <AssemblyName>00.Test</AssemblyName>
+    <RootNamespace>_03.Printing_Triangle</RootNamespace>
+    <AssemblyName>03.Printing Triangle</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="00.Test.cs" />
+    <Compile Include="03.Printing Triangle.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

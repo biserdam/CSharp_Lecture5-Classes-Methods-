@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2002
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00.Test", "00.Test\00.Test.csproj", "{162E03D9-0B4F-4ACB-A53F-303E225A396A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Printing Triangle", "03.Printing Triangle\03.Printing Triangle.csproj", "{B19A6B7B-8E01-4918-B08D-AC3CC3D6D3CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{162E03D9-0B4F-4ACB-A53F-303E225A396A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{162E03D9-0B4F-4ACB-A53F-303E225A396A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{162E03D9-0B4F-4ACB-A53F-303E225A396A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B19A6B7B-8E01-4918-B08D-AC3CC3D6D3CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B19A6B7B-8E01-4918-B08D-AC3CC3D6D3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B19A6B7B-8E01-4918-B08D-AC3CC3D6D3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B19A6B7B-8E01-4918-B08D-AC3CC3D6D3CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
